@@ -288,7 +288,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 For support and questions:
 - Create an issue in the repository
-- Contact: info@skytale.com
+- Contact: https://builtbyamos.great-site.net
 - Documentation: [Project Wiki](wiki-url)
 
 ## 🔄 **Updates & Maintenance**
@@ -303,3 +303,4 @@ For support and questions:
 **SkyTale Electronics** - Your trusted partner for premium electronics and mobile accessories.
 
 Built with ❤️ using modern web technologies.
+
